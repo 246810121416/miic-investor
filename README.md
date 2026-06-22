@@ -24,23 +24,6 @@ npm run dev
 
 ---
 
-## Login Credentials
-
-### Admin
-- Email: `admin@miic.ug`
-- Password: `miic2024`
-
-### Investors (default)
-| Name | Email | PIN |
-|------|-------|-----|
-| Sarah Namukasa | s.namukasa@miic.ug | 1234 |
-| David Kiggundu | d.kiggundu@miic.ug | 2345 |
-| Grace Apio | g.apio@miic.ug | 3456 |
-
-> Add more investors via Admin → Manage panel
-
----
-
 ## File Structure
 
 ```
