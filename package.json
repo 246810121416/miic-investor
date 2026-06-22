@@ -1,0 +1,21 @@
+{
+  "name": "miic-investor-signal-tool",
+  "version": "1.0.0",
+  "description": "MIIC Investor Scoring Tool — Digital signal card for startup events in Uganda",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": ["miic", "investor", "scoring", "uganda", "startup"],
+  "license": "MIT"
+}
